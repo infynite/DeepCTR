@@ -20,9 +20,6 @@
 
 DeepCTR is a **Easy-to-use**,**Modular** and **Extendible** package of deep-learning based CTR models along with lots of core components layers which can be used to easily build custom models.It is compatible with **tensorflow 1.4+ and 2.0+**.You can use any complex model with `model.fit()`and `model.predict()` .
 
-Let's [**Get Started!**](https://deepctr-doc.readthedocs.io/en/latest/Quick-Start.html)([Chinese Introduction](https://zhuanlan.zhihu.com/p/53231955))
-
-
 ## Models List
 
 |                 Model                  | Paper                                                                                                                                                           |
@@ -48,10 +45,4 @@ Let's [**Get Started!**](https://deepctr-doc.readthedocs.io/en/latest/Quick-Star
 
 
 
-## DisscussionGroup  
-
-Please follow our wechat to join group:  
-- 公众号：**浅梦的学习笔记**  
-- wechat ID: **deepctrbot**
-
-  ![wechat](./docs/pics/weichennote.png)
+## Using Dense Feature with higher dimensions
